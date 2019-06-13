@@ -145,7 +145,7 @@
 }
 
 .ace_comment {
-  color: #ffffd8;
+  color: #8cb9fd;
 
 }
 
@@ -180,7 +180,7 @@
 }
 
 .ace_markup.ace_heading {
-  color: #dd7fba;
+  color: #2de6bc;
 }
 .nocolor.ace_editor .ace_line span {
   color: #fff5f6 !important;
